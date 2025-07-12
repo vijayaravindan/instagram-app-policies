@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - thoughtfulchatsandhealthub</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            line-height: 1.6;
+        }
+        h1 { color: #1877f2; }
+        h2 { color: #333; }
+        h3 { color: #555; }
+        .contact { 
+            background: #f0f2f5; 
+            padding: 15px; 
+            border-radius: 8px; 
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <h2>thoughtfulchatsandhealthub</h2>
+    
+    <p><strong>Last updated:</strong> July 12, 2025</p>
+    
+    <h3>Information We Collect</h3>
+    <p>This application automatically posts video content to Instagram from Google Drive. We only access:</p>
+    <ul>
+        <li>Video files from your Google Drive for posting purposes</li>
+        <li>Instagram posting permissions to publish content to your account</li>
+        <li>Basic Instagram profile information required for authentication</li>
+    </ul>
+    
+    <h3>How We Use Information</h3>
+    <p>We use the accessed information solely to:</p>
+    <ul>
+        <li>Retrieve video files from your Google Drive</li>
+        <li>Post videos to your Instagram account automatically</li>
+        <li>Maintain posting schedules and track posted content</li>
+    </ul>
+    
+    <h3>Data Storage and Security</h3>
+    <p>We do not store any personal data, videos, or Instagram content on our servers. All processing is done in real-time through the automation workflow. Temporary access tokens are handled securely and not logged.</p>
+    
+    <h3>Third-Party Services</h3>
+    <p>This application integrates with:</p>
+    <ul>
+        <li>Google Drive API - for accessing your video files</li>
+        <li>Instagram Basic Display API - for posting content</li>
+        <li>n8n automation platform - for workflow execution</li>
+    </ul>
+    
+    <h3>Your Rights</h3>
+    <p>You can revoke access to this application at any time through your Google and Instagram account settings.</p>
+    
+    <div class="contact">
+        <h3>Contact Information</h3>
+        <p>For any questions about this Privacy Policy, contact us at: <strong>svijayaravindan@gmail.com</strong></p>
+    </div>
+</body>
+</html>
